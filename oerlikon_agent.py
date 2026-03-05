@@ -19,7 +19,7 @@ EMAIL_ABSENDER    = os.environ["EMAIL_ABSENDER"]
 EMAIL_PASSWORT    = os.environ["EMAIL_PASSWORT"]
 EMAIL_EMPFAENGER  = os.environ["EMAIL_EMPFAENGER"]
 SEEN_FILE         = "seen_items.json"
-STUNDEN_LOOKBACK  = 48
+STUNDEN_LOOKBACK  = 5
 
 # ─────────────────────────────────────────────
 # COMPETITORS
